@@ -15,7 +15,7 @@ In this analysis, there are 2 dataset were used to predict number of new_cases.
    1. cases_malaysia_train.csv - The data are from date 25/1/2020 to 4/12/2021 with 680 data entry and 31 columns
    2. cases_malaysia_test.csv - The data are from date 5/12/2021 to 14/3/2022 with 100 data entry and 31 columns\
 
-In this case, we only want to predict new_cases, hence we only focused on "cases_new" column only. Regarding on inspection of the data, there are some missing values/'Nan' and symbol found in the data. To make the data looking neat and easy to do next step of making model, the data need to clean first in cleaning process.
+In this case, we only want to predict new_cases, hence we only focused on "cases_new" column only. Regarding on inspection of the data, there are some missing values/'Nan' and symbol found in the data. To make the data looking neat and easy to do next step of making model, the data need to clean first by apply in cleaning process.
 
 
 ### Deep Learning Model Using LSTM Layer

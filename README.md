@@ -29,9 +29,11 @@ Using 2 Dropout layers may reducing the overfitting of the dataset. The LSTM nod
 ![epoch both](https://user-images.githubusercontent.com/105650253/211258429-733c32f7-93bd-448c-80b1-30bc2f2bef9e.PNG)
 
 ### Result of prediction vs actual
-![output](https://user-images.githubusercontent.com/105650253/211258534-4309d6e8-7e98-4cc0-b869-7783c9d2e71d.png)
+![mape](https://user-images.githubusercontent.com/105650253/211263169-715fc3ab-213c-4d5d-a9d1-9d08fb55d2f0.PNG)
 
-By using the created model, The Mean Absolute Percentage Error is in 0.2%. To conclude this, this model are good enough to be used for future prediction.
+
+
+By using the created model, The Mean Absolute Percentage Error is in 0.27%. To conclude this, this model are good enough to be used for future prediction.
 
 ### Discussion
 
